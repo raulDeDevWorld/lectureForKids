@@ -1,0 +1,19 @@
+{
+  "name": "wifi",
+  "version": "1.0.0",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "dictionary-es": "^4.0.0",
+    "node-fetch": "^3.3.2",
+    "node-wifi": "^2.0.16",
+    "rae": "^1.0.3",
+    "rae-api": "^1.5.3"
+  }
+}
